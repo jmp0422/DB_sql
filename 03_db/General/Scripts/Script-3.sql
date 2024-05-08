@@ -1,0 +1,8 @@
+-- CONNECTION: name=localhost
+-- New script in localhost.
+-- Connection Type: dev 
+-- Url: jdbc:oracle:thin:@//localhost:1521/XE
+-- workspace : H:\workspace\multi\03_db
+-- Date: 2024. 5. 7.
+-- Time: 오전 10:08:22
+-- ${projectname}
